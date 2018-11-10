@@ -1,0 +1,41 @@
+Tower says: JetPlane#J1(1) registered to weather tower.
+Tower says: Baloon#B50(2) registered to weather tower.
+Tower says: Helicopter#H2(3) registered to weather tower.
+JetPlane#J1(1) I need thermal imager
+Baloon#B50(2) My rotor is going to freeze!
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) Damn you rain! You messed up my baloon.
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) My rotor is going to freeze!
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) Damn you rain! You messed up my baloon.
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) My rotor is going to freeze!
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) Damn you rain! You messed up my baloon.
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Baloon#B50(2) My rotor is going to freeze!
+Baloon#B50(2) landing.
+Tower says: Baloon#B50(2) unregistered from weather tower.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
+JetPlane#J1(1) Yeeeeeah =)
+Helicopter#H2(3) This is hot.
